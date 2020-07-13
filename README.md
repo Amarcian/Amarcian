@@ -9,6 +9,6 @@ through web design and development backed up with years of experience through my
 I'm a UI designer with a passion for front-end development, I drink too much coffee, and I'm always trying to learn something!
 Next to job as web developer, I'm currently studying for my BA in Communication and Multimedia Design
 
-### Quick Links
+## Quick Links
 
 * [Portfolio](http://daisytammer.com/)
