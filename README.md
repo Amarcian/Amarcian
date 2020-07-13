@@ -1,3 +1,5 @@
+![image](https://github.com/Amarcian/Amarcian/blob/master/dino.gif)
+
 # Hello, Visitor!
 
 **I develop and design online experiences for brands** 
