@@ -10,7 +10,3 @@ Next to my day-job for which I'm active 4 days a week, I'm currently studying fo
 ### Quick Links
 
 * [Portfolio](http://daisytammer.com/)
-
-## What's on my GitHub?
-
-I use GitHub to share and save personal projects, sadly everything is currently private due to an NDA agreement
