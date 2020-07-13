@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, Visitor!
 
-<!--
-**Amarcian/Amarcian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I develop and design online experiences for brands** 
+through web design and development backed up with years of experience through my education and work.
 
-Here are some ideas to get you started:
+## Who Am I?
+I'm a UI designer with a passion for front-end development, I drink too much coffee, and I'm always trying to learn something!
+Next to my day-job for which I'm active 4 days a week, I'm currently studying for my BA in Communication and Multimedia Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quick Links
+
+* [Portfolio](http://daisytammer.com/)
+
+## What's on my GitHub?
+
+I use GitHub to share and save personal projects, sadly everything is currently private due to an NDA agreement
